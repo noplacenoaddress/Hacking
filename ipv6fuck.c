@@ -1,5 +1,5 @@
 /*
-    ipv6fuck v1.0alfa - (c)2002 schizoid
+    ipv6fuck v1.0alfa - (c)2002 
     (deriving from icmp6fuck v3)
 
     this program wrote to study reasons
@@ -128,7 +128,7 @@ int usage(char *name)
     "                          -m 1 -S 5 (0=infinite)\n"
     "                          -s 0 (0=random) -d 0 (0=random) -f s\n"
     "                          -t 0x80 -c 0x00\n\n"
-    "for help send e-mail to schizoid@arabia.com\n\n\n", name);
+    "for help send e-mail to \n\n\n", name);
   exit(-1);
 }
 
